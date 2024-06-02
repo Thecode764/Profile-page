@@ -1,5 +1,6 @@
 import "./output.css"
 import Skills from "./Skills.jsx"
+import "user.png"
 
 export default function Profile() {
     return (
