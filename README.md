@@ -7,4 +7,4 @@
 git clone https://github.com/Thecode764/Profile-page
 cd Profile-page
 npm run dev
-```# Profile-page
+```
